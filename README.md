@@ -4,7 +4,7 @@
 - It simulates four different car applications:
   - Parking Sensors
   - Safety Seatbelt warning system
-  - Breaks system
+  - Brakes system
   - Safety Speed warning
  
 - It has 2 GUIs one that representes the OS's memory and shows real-time utilization graphs for cpu and memory
