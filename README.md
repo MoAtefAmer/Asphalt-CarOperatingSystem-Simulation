@@ -6,7 +6,7 @@
   - Safety Seatbelt warning system
   - Breaks system
   - Safety Speed warning
- In addition to normal car functionalites (gas,reverse,etc...)
+ - In addition to normal car functionalites (gas,reverse,etc...)
 - It has 2 GUIs one that representes the OS's memory and shows real-time utilization graphs for cpu and memory
 - The other one simulates the actual car with gas and brakes buttons as if you are in a real car
 - Check the report for furthur description.
