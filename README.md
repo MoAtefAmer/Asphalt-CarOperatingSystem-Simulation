@@ -1,7 +1,7 @@
 # Asphalt-CarOperatingSystem-Simulation
 - An operating system that operates a car and is simulated by Java.
 - The simulation mainly uses semaphores,priority queues and PCB
-- It simulates four different car applications:- 
+- It simulates four different car applications:
   - Parking Sensors
   - Safety Seatbelt warning system
   - Breaks system
